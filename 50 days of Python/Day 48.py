@@ -2,4 +2,4 @@
 # Numpy array faster than list 50x
 # ND list (n dimensional array) 
 
-# numpu and pandas is on my jupyter notebook
+# numpy and pandas is on my jupyter notebook
