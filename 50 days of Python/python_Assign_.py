@@ -8,7 +8,7 @@
 # print(user_input)
 
 # -------------------------------------------------------------Que 2 ------------------------------------------------------------------
-# 2.Count Even and Odd Numbers in a list
+# 2.Count Even and Odd Numbers in a given list
 # user_input = [1,2,3,4,5]
 # for i in user_input:
 #     if i % 2 == 0:
