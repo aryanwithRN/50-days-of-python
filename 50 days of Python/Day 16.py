@@ -1,4 +1,5 @@
-# WTP to take a list of n numbers check and print all the prime Numbers present number is in string
+# WTP to take a list of n numbers check and print all the prime Numbers present number is in list
+
 # user_input = int(input("Enter a Number: "))
 # ls=[]
 
